@@ -12,6 +12,8 @@ This workbook includes tables that reflect the performance of 12 stocks by year.
 ### 2017
 <img width="766" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/18197449/182736313-fa3a52ea-ad90-4c8d-b79d-8977d42d84ff.png">
 
+<img width="751" alt="VBA_Challenge_Original_code_2017" src="https://user-images.githubusercontent.com/18197449/182737005-f5296f61-b8be-4019-b8b8-76af9e1e9312.png">
+
 
 
 ### 2018
